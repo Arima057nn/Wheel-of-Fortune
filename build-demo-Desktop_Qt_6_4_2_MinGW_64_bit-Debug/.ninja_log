@@ -1,0 +1,15 @@
+# ninja log v5
+543	3932	6965499050924645	CMakeFiles/demo.dir/demo_autogen/mocs_compilation.cpp.obj	4d8332537e481ffe
+546	3804	6965499049638087	CMakeFiles/demo.dir/main.cpp.obj	2e6c4837c3176f6b
+15	397	6965522832233225	demo_autogen/mocs_compilation.cpp	827d2146e7d85f0e
+15	397	6965522832233225	demo_autogen/timestamp	827d2146e7d85f0e
+15	397	6965522832233225	G:/build-demo-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/demo_autogen/timestamp	827d2146e7d85f0e
+15	397	6965522832233225	G:/build-demo-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	827d2146e7d85f0e
+415	3074	6965522858990620	CMakeFiles/demo.dir/mainwindow.cpp.obj	ca1b73966450c619
+3075	3344	6965522861643246	demo.exe	fc3726ed48b2c22
+17	392	6965526607994909	demo_autogen/timestamp	827d2146e7d85f0e
+17	392	6965526607994909	demo_autogen/mocs_compilation.cpp	827d2146e7d85f0e
+17	392	6965526607994909	G:/build-demo-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/demo_autogen/timestamp	827d2146e7d85f0e
+17	392	6965526607994909	G:/build-demo-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/demo_autogen/mocs_compilation.cpp	827d2146e7d85f0e
+412	3143	6965526635503188	CMakeFiles/demo.dir/mainwindow.cpp.obj	ca1b73966450c619
+3144	3419	6965526638220212	demo.exe	fc3726ed48b2c22
