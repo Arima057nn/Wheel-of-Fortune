@@ -1,5 +1,6 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
+#include "string.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -14,7 +15,8 @@ MainWindow::~MainWindow()
 }
 
 
-
+QString txt1 = "HAPPYNEWYEAR";
+QString txt2 = "************";
 void MainWindow::on_btn_Q_clicked()
 {
     ui->TextInput->setText("Q");
@@ -171,5 +173,27 @@ void MainWindow::on_btn_N_clicked()
 void MainWindow::on_btn_M_clicked()
 {
     ui->TextInput->setText("M");
+}
+
+
+void MainWindow::on_pushButton_14_clicked()
+{
+
+
+    QString c = ui->TextInput->toPlainText();
+
+    for(int i = 0; i < 12; i++){
+        if(c[0] == txt1[i]) txt2[i] = c[0];
+    }
+    ui->lb_text->setText(txt2);
+
+
+
+}
+
+
+void MainWindow::on_pushButton_13_clicked()
+{
+    ui->lb_text->setText(txt2);
 }
 

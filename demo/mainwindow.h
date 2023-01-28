@@ -72,6 +72,10 @@ private slots:
 
     void on_btn_M_clicked();
 
+    void on_pushButton_14_clicked();
+
+    void on_pushButton_13_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
